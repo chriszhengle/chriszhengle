@@ -1,4 +1,13 @@
-body
+
+div
 {
-	background-color: pink;
+	        padding: 0px;
+            width:500px;
+            height:200px;
+            text-align:center;
+            background-color:grey;
+            font-size: 40px;
+            color: white;
+            display: table-cell;
+            vertical-align:middle
 }
